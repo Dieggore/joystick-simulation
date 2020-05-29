@@ -1,0 +1,28 @@
+body {
+  font-family: sans-serif;
+}
+
+#app {
+  border: 2px solid black;
+  background: #b9c23c;
+  height: 30rem;
+  width: 50%;
+  margin: 0 auto;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 1rem 1rem 100px 1px black;
+}
+
+#blue-box {
+  position: absolute;
+  background-color: black;
+  height: 2rem;
+  width: 3rem;
+}
+
+#title {
+  text-align: center;
+  padding: 2rem;
+}
